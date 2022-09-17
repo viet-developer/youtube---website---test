@@ -1,0 +1,184 @@
+.sidebar {
+  color: white;
+  position: fixed;
+  left: 0;
+  bottom: 390px;
+  top: 63px;
+  width: 235px;
+  border-bottom-color: rgb(233, 233, 233);
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  background-color: white;
+  z-index: 101;
+}
+
+.sidebar-link {
+  height: 41px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.sidebar-link:hover {
+  background-color: rgb(236, 236, 236);
+}
+
+.sidebar-link img {
+  height: 20px;
+  margin-left: 28px;
+  margin-right: 40px;
+ 
+}
+
+.sidebar-name-icon {
+  color: black;
+  font-size: 15px;
+  margin-right: 95px;
+  
+}
+
+.explore {
+  color: black;
+  font-size: 15px;
+  margin-right: 86px;
+}
+
+.subscription {
+  color: black;
+  font-size: 15px;
+  margin-right:45px;
+}
+
+.short {
+  color: black;
+  font-size: 15px;
+  margin-right: 92px;
+} 
+
+.sidebar2 {
+  position: fixed;
+  color: white;
+  left: 0;
+  top: 235px;
+  width: 235px;
+  bottom: 115px;
+  border-bottom-color: rgb(233, 233, 233);
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  background-color: white;
+
+}
+
+.sidebar-link2 {
+  height: 41px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.sidebar-link2:hover {
+  background-color: rgb(236, 236, 236);
+
+}
+
+.sidebar2 img {
+  height: 20px;
+  margin-left: 28px;
+  margin-right: 40px;
+}
+
+.sidebar-name-library {
+  color: black;
+  font-size: 15px;
+  margin-right: 91px;
+}
+
+.sidebar-name-history {
+  color: black;
+  font-size: 15px;
+  margin-right: 90px;
+}
+ 
+.your-video {
+  margin-right: 62px;
+  color: black;
+  font-size: 15px;
+}
+
+.viet-remix {
+  margin-right: 71px;
+  color: black;
+  font-size: 15px;
+}
+
+.your-video2 {
+  margin-right: 61px;
+  color: black;
+  font-size: 15px;
+}
+
+
+.sidebar3 {
+  background-color: white;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  left: 0;
+  bottom: 0;
+  top:510px;
+  width: 235px;
+  
+}
+
+.sidebar-link3 {
+  height: 41px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  position: relative;
+}
+
+.sidebar-sub {
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  color: rgb(3, 3, 3);
+  margin-bottom: 70px;
+  margin-left: 28px;
+}
+
+.music-img {
+  position: absolute;
+  height: 25px;
+  left: 25px;
+  top: 45px;
+  border-radius: 50px;
+  align-items: center;
+}
+
+.music-img-text {
+  position: absolute;
+  align-items: center;
+  right: 94px;
+  top: 50px;
+}
+
+.cup-img {
+   
+    position: absolute;
+    height: 25px;
+    left: 25px;
+    top: 85px;
+    border-radius: 50px;
+    align-items: center;
+}
+
+.cup-img-text {
+    position: absolute;
+    align-items: center;
+    right: 92px;
+    top: 90px;
+}
